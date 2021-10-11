@@ -1,1 +1,3 @@
 added a new line to file (file2) to the new branch Test
+
+Adding this new line from GitHub
